@@ -1,0 +1,30 @@
+{
+  "name": "tvt-fingerprint-updater",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "aws4": "^1.12.0",
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "easy-yandex-s3": "^1.1.8",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.2",
+    "mongodb": "^6.3.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "puppeteer": "^21.5.2",
+    "puppeteer-with-fingerprints": "^1.4.4"
+  }
+}
